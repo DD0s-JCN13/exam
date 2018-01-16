@@ -1,0 +1,14 @@
+package edu.fju.exam;
+
+public class Goods {
+	String name;
+	int price;
+	
+	public Goods(String name, int price){
+		this.price = price;
+		this.name = name;
+	}
+	public void Cost(){
+		;
+	}
+}
